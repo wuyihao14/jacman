@@ -33,7 +33,7 @@ author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if 
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
 theme_color:
-    theme: '#2ca6cb'    ##the defaut theme color is blue
+    theme: '#669999'
 
 # 代码高亮主题
 # available: default | night
@@ -53,8 +53,8 @@ creative_commons: none
 
 #### Author information
 author:
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
+  intro_line1:  "wuyihao. ^_^"    ## your introduction on the bottom of the page
+  intro_line2:  "Major in Network Engineering. Fancy 4 Algorithm, Infomation Security. Computer Network. etc"  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
@@ -78,8 +78,8 @@ toc:
 
 #### Links
 links:
-  码农圈: https://coderq.com,一个面向程序员交流分享的新一代社区
-  Jark's Blog: http://wuchong.me
+  k神: http://blog.ikow.cn
+  狐神: http://nlfox.sinaapp.com
 
 
 
